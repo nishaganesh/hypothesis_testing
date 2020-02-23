@@ -1,0 +1,199 @@
+Timestamp,Have you been living in the state of Maryland for longer than 3 months now?,In which county of Maryland do you reside?,Which age group do you belong to?,What is your preferred method of drinking water?,How many glasses/bottles of water do you drink per day on average? (Consider a scale of 16oz glass/bottle),How many glasses/bottles of non-water beverages do you drink per day on average? (Consider a scale of 16oz glass/bottle),Do you use reusable bottle for water?,Do you have charges associated with water supply at your house/apartment?,Are you planning to switch to bottled water?,"Do you buy water bottles on a daily, weekly, monthly, or yearly basis?",How much do you typically spend on water bottles per week?,Are you planning to switch to tap water?,"How would you rate your trust in all brands of bottled water to be contaminate free? (Rate from 1 to 5, with 5 being trusting completely)","How would you rate your trust in the tap water at your house to be contaminate free?(Rate from 1 to 5, with 5 being trusting completely)",Do you use a device at home to filter your tap water?,"How would you rate the taste of your tap water? (Rate from 1 to 5, with 5 being the highest)","How would you rate the taste of bottled water?(Rate from 1 to 5, with 5 being the highest)",Did you ever fall sick because of drinking tap water?
+3/30/19 9:46,Yes,Montgomery County,25-34,Tap Water,4,1,Yes,Yes,No,,,,,5,Yes,5,5,No
+3/30/19 10:00,Yes,Prince George's County,25-34,Tap Water,10,1,Yes,No,No,,,,3,3,No,3,4,No
+3/30/19 10:23,Yes,Montgomery County,25-34,Bottled Water,5,1,,,,Yearly,Less than 5 USD,Maybe,4,3,Yes,4,4,No
+3/30/19 10:27,Yes,Prince George's County,25-34,Tap Water,4,1,Yes,I do not know,No,,,,4,3,Yes,4,5,No
+3/30/19 10:29,Yes,Prince George's County,18-24,Bottled Water,3,1,,,,Monthly,Less than 5 USD,Maybe,3,2,No,2,4,I do not know
+3/30/19 11:39,Yes,Montgomery County,25-34,Tap Water,5,1,Yes,Yes,Maybe,,,,3,2,Yes,2,4,No
+3/30/19 11:55,Yes,Baltimore County,18-24,Bottled Water,More than 10,2,,,,Monthly,More than 30 USD,No,4,4,Yes,4,4,I do not know
+3/30/19 12:04,Yes,Montgomery County,25-34,Tap Water,6,2,Yes,Yes,Maybe,,,,3,3,Yes,3,2,No
+3/30/19 12:26,Yes,Montgomery County,25-34,Tap Water,4,2,Yes,Yes,No,,,,4,3,Yes,3,4,No
+3/30/19 12:28,Yes,Howard County,25-34,Tap Water,3,2,Yes,I do not know,No,,,,5,5,Yes,5,5,No
+3/30/19 13:16,Yes,Prince George's County,18-24,Tap Water,4,2,Yes,No,No,,,,4,3,No,4,4,No
+3/30/19 13:54,Yes,Prince George's County,18-24,Tap Water,8,0,Not Applicable,No,No,,,,4,4,Yes,4,5,No
+3/30/19 17:03,Yes,Montgomery County,25-34,Tap Water,2,2,Yes,Yes,No,,,,1,5,Yes,4,3,No
+3/30/19 19:35,Yes,Montgomery County,18-24,Tap Water,8,2,Yes,No,No,,,,4,3,Yes,5,4,No
+3/30/19 22:41,Yes,Prince George's County,18-24,Tap Water,8,2,Yes,No,No,,,,4,2,Yes,4,4,No
+3/30/19 22:46,Yes,Prince George's County,18-24,Tap Water,6,0,Yes,Yes,No,,,,3,4,Yes,4,4,No
+3/30/19 23:15,Yes,Prince George's County,18-24,Tap Water,8,2,Yes,Yes,No,,,,5,4,No,5,4,No
+3/31/19 0:00,Yes,Montgomery County,18-24,Tap Water,3,0,Yes,No,No,,,,5,3,Yes,5,5,No
+3/31/19 0:17,Yes,Prince George's County,25-34,Tap Water,5,3,Yes,No,No,,,,2,2,No,3,3,No
+3/31/19 0:17,Yes,Montgomery County,Under 18,Tap Water,5,4,Yes,I do not know,No,,,,4,3,No,4,3,No
+3/31/19 0:18,Yes,Anne Arundel County,18-24,Tap Water,3,0,Yes,Yes,No,,,,5,5,Yes,4,5,No
+3/31/19 0:49,Yes,Howard County,18-24,Tap Water,3,2,Yes,Yes,No,,,,4,3,No,5,5,No
+3/31/19 0:54,Yes,Prince George's County,18-24,Tap Water,6,2,Yes,Yes,No,,,,3,5,No,5,4,No
+3/31/19 0:56,Yes,Prince George's County,18-24,Tap Water,3,2,Yes,No,No,,,,4,3,Yes,5,4,No
+3/31/19 0:57,Yes,Montgomery County,18-24,Tap Water,3,6,No,Yes,No,,,,4,2,Yes,2,2,No
+3/31/19 1:03,Yes,Wicomico County,18-24,Bottled Water,1,2,,,,Monthly,Less than 5 USD,No,5,3,No,3,5,I do not know
+3/31/19 1:24,Yes,Prince George's County,18-24,Tap Water,4,2,Yes,No,No,,,,4,2,Yes,4,5,No
+3/31/19 1:43,Yes,Prince George's County,18-24,Tap Water,3,2,Yes,No,No,,,,5,4,Yes,5,2,No
+3/31/19 1:52,Yes,Baltimore County,18-24,Tap Water,8,0,Yes,Yes,No,,,,5,4,No,5,5,No
+3/31/19 2:12,Yes,Montgomery County,18-24,Bottled Water,2,5,,,,Weekly,5 - 10 USD,Maybe,3,2,Yes,2,4,No
+3/31/19 4:36,Yes,Baltimore County,18-24,Tap Water,5,0,Yes,I do not know,No,,,,5,5,Yes,4,5,No
+3/31/19 7:22,Yes,Montgomery County,25-34,Tap Water,3,6,Not Applicable,No,No,,,,3,4,No,4,4,No
+3/31/19 8:17,Yes,Prince George's County,18-24,Bottled Water,3,5,,,,Weekly,Less than 5 USD,No,4,5,Yes,4,5,No
+3/31/19 8:32,Yes,Montgomery County,25-34,Tap Water,4,2,Yes,Yes,No,,,,5,5,Yes,5,2,No
+3/31/19 9:17,Yes,Montgomery County,25-34,Tap Water,3,0,Yes,Yes,No,,,,4,5,No,5,3,No
+3/31/19 9:21,Yes,Baltimore County,18-24,Tap Water,10,0,Yes,Yes,No,,,,4,3,Yes,3,5,I do not know
+3/31/19 9:37,Yes,Prince George's County,25-34,Bottled Water,2,0,,,,Monthly,5 - 10 USD,No,4,2,No,3,5,I do not know
+3/31/19 9:53,Yes,Carroll County,18-24,Tap Water,6,2,Yes,Yes,No,,,,4,4,Yes,4,5,No
+3/31/19 10:13,Yes,Prince George's County,18-24,Tap Water,6,2,Yes,No,No,,,,4,2,Yes,3,4,No
+3/31/19 10:49,Yes,Prince George's County,18-24,Bottled Water,2,4,,,,Monthly,Less than 5 USD,No,4,2,No,2,4,No
+3/31/19 10:50,Yes,Howard County,18-24,Bottled Water,3,2,,,,Weekly,10- 15 USD,No,4,2,No,2,4,No
+3/31/19 11:12,Yes,Howard County,18-24,Tap Water,5,0,Yes,Yes,No,,,,5,3,Yes,5,5,No
+3/31/19 11:44,Yes,Howard County,18-24,Bottled Water,4,0,,,,Weekly,20 - 25 USD,Maybe,4,3,No,2,3,No
+3/31/19 11:57,Yes,Prince George's County,18-24,Tap Water,4,2,Yes,No,No,,,,4,3,No,4,4,No
+3/31/19 12:01,Yes,Anne Arundel County,25-34,Tap Water,4,0,Yes,Yes,No,,,,5,5,No,4,5,No
+3/31/19 12:53,Yes,Montgomery County,35-44,Bottled Water,5,2,,,,Weekly,10- 15 USD,No,4,2,No,2,4,Yes
+3/31/19 14:23,Yes,Prince George's County,18-24,Tap Water,3,1,Yes,No,No,,,,4,4,Yes,4,5,No
+3/31/19 14:29,Yes,I don't know,25-34,Bottled Water,10,0,,,,Weekly,Less than 5 USD,No,5,1,Yes,1,5,No
+3/31/19 15:17,Yes,Prince George's County,18-24,Tap Water,5,0,Yes,Yes,No,,,,5,3,No,5,5,No
+3/31/19 19:08,Yes,Baltimore County,18-24,Bottled Water,8,2,,,,Weekly,10- 15 USD,Yes,4,4,Yes,5,5,No
+3/31/19 21:05,Yes,Montgomery County,25-34,Tap Water,2,2,Yes,No,No,,,,2,5,No,5,3,No
+3/31/19 22:29,Yes,Montgomery County,18-24,Tap Water,5,0,No,I do not know,No,,,,4,4,Yes,4,4,No
+4/1/19 7:20,Yes,Prince George's County,18-24,Bottled Water,More than 10,3,,,,Yearly,Less than 5 USD,No,5,1,Yes,1,5,I do not know
+4/1/19 9:45,Yes,Montgomery County,25-34,Bottled Water,2,0,,,,Monthly,20 - 25 USD,Maybe,4,2,Yes,3,4,No
+4/1/19 13:04,Yes,Prince George's County,25-34,Tap Water,6,1,Yes,No,No,,,,3,2,Yes,5,5,I do not know
+4/1/19 18:07,Yes,Prince George's County,25-34,Tap Water,7,3,Yes,No,No,,,,5,4,Yes,4,5,No
+4/1/19 18:24,Yes,Baltimore County,18-24,Tap Water,3,1,Yes,No,No,,,,4,5,Yes,5,4,No
+4/1/19 18:32,Yes,Baltimore County,18-24,Tap Water,3,1,Yes,No,No,,,,3,4,Yes,5,3,No
+4/1/19 21:59,Yes,Prince George's County,18-24,Tap Water,8,1,Yes,No,No,,,,3,2,Yes,3,4,No
+4/2/19 5:04,Yes,Prince George's County,25-34,Tap Water,10,1,Yes,No,No,,,,4,4,I do not know,5,4,No
+4/2/19 9:32,Yes,Howard County,45-54,Tap Water,4,More than 10,No,Yes,No,,,,5,3,Yes,4,5,No
+4/4/19 17:33,Yes,Montgomery County,25-34,Bottled Water,4,2,,,,Monthly,10- 15 USD,Maybe,4,2,No,1,5,No
+4/4/19 17:35,Yes,Prince George's County,25-34,Tap Water,8,0,Yes,No,No,,,,5,3,Yes,4,5,No
+4/4/19 17:44,Yes,Montgomery County,45-54,Tap Water,1,0,Yes,No,No,,,,3,3,Yes,5,2,No
+4/4/19 17:48,Yes,Montgomery County,45-54,Tap Water,3,2,Yes,Yes,No,,,,3,3,Yes,4,4,No
+4/4/19 19:02,Yes,Baltimore City,25-34,Tap Water,4,0,Yes,Yes,No,,,,5,4,Yes,5,3,No
+4/4/19 19:03,Yes,Howard County,65+,Tap Water,3,1,No,Yes,No,,,,5,4,No,5,1,No
+4/4/19 19:21,Yes,Washington County,18-24,Tap Water,4,1,Yes,Yes,No,,,,4,1,Yes,4,5,No
+4/4/19 19:24,Yes,Frederick County,18-24,Bottled Water,6,1,,,,Monthly,10- 15 USD,No,5,3,Yes,2,5,No
+4/4/19 19:26,Yes,Prince George's County,45-54,Bottled Water,More than 10,6,,,,Weekly,15 - 20 USD,No,3,3,No,3,3,No
+4/4/19 19:55,Yes,Montgomery County,25-34,Bottled Water,2,1,,,,Monthly,Less than 5 USD,Maybe,5,4,No,3,5,No
+4/4/19 20:04,Yes,Prince George's County,18-24,Bottled Water,2,1,,,,Weekly,5 - 10 USD,Maybe,2,2,No,3,4,No
+4/4/19 20:16,Yes,Washington County,25-34,Tap Water,6,3,Yes,No,No,,,,4,3,Yes,4,4,No
+4/4/19 20:23,Yes,Baltimore City,25-34,Tap Water,3,1,Yes,I do not know,No,,,,5,3,Yes,1,5,No
+4/4/19 20:26,Yes,Baltimore City,25-34,Tap Water,More than 10,3,Yes,No,No,,,,4,4,No,5,5,No
+4/4/19 20:38,Yes,Baltimore City,25-34,Tap Water,More than 10,1,Yes,Yes,No,,,,2,4,No,4,3,No
+4/4/19 20:42,Yes,Baltimore County,25-34,Bottled Water,5,1,,,,Weekly,5 - 10 USD,No,1,1,No,5,5,No
+4/4/19 20:43,Yes,Howard County,35-44,Tap Water,3,4,Yes,No,No,,,,5,4,No,5,5,No
+4/4/19 20:47,Yes,Harford County,25-34,Tap Water,2,2,Yes,Yes,No,,,,4,4,Yes,4,5,No
+4/4/19 20:54,Yes,Baltimore City,18-24,Bottled Water,6,0,,,,Monthly,15 - 20 USD,No,4,3,Yes,4,5,No
+4/4/19 21:00,Yes,Anne Arundel County,35-44,Bottled Water,6,0,,,,Monthly,Less than 5 USD,No,3,2,No,1,5,No
+4/4/19 21:10,Yes,Anne Arundel County,25-34,Tap Water,4,1,Yes,Yes,No,,,,3,4,Yes,4,3,No
+4/4/19 21:11,Yes,Montgomery County,25-34,Tap Water,6,1,Yes,Yes,No,,,,3,4,Yes,4,4,No
+4/4/19 21:11,Yes,Carroll County,25-34,Tap Water,4,0,Yes,No,No,,,,5,4,Yes,4,4,No
+4/4/19 21:18,Yes,Baltimore City,18-24,Tap Water,5,2,Yes,No,No,,,,4,2,No,5,4,No
+4/4/19 21:22,Yes,Charles County,18-24,Tap Water,3,0,Not Applicable,Yes,No,,,,5,4,Yes,5,5,No
+4/4/19 21:28,Yes,Baltimore City,18-24,Tap Water,3,1,Yes,Yes,No,,,,2,4,Yes,5,4,No
+4/4/19 21:39,Yes,Baltimore City,25-34,Tap Water,3,8,Yes,Yes,No,,,,5,4,Yes,5,4,No
+4/4/19 21:40,Yes,Baltimore City,25-34,Tap Water,2,2,Yes,No,No,,,,3,4,No,5,5,No
+4/4/19 21:49,Yes,Montgomery County,25-34,Tap Water,6,2,No,Yes,No,,,,4,4,No,3,3,No
+4/4/19 21:51,Yes,Baltimore City,25-34,Tap Water,8,1,Yes,Yes,No,,,,3,2,Yes,5,3,No
+4/4/19 21:58,Yes,Howard County,35-44,Tap Water,8,2,Yes,Yes,No,,,,3,4,No,5,4,No
+4/4/19 22:06,Yes,Baltimore City,25-34,Tap Water,4,1,Yes,No,No,,,,3,4,No,5,3,No
+4/4/19 22:07,Yes,Baltimore City,35-44,Tap Water,More than 10,0,Yes,Yes,No,,,,3,4,No,4,3,No
+4/4/19 22:11,Yes,Baltimore City,25-34,Tap Water,4,4,Not Applicable,Yes,No,,,,5,4,Yes,3,5,No
+4/4/19 22:13,Yes,Harford County,25-34,Tap Water,8,0,Yes,Yes,No,,,,3,3,No,5,4,No
+4/4/19 22:30,Yes,Baltimore City,25-34,Bottled Water,3,0,,,,Monthly,Less than 5 USD,No,3,1,No,2,4,I do not know
+4/4/19 22:30,Yes,Howard County,Under 18,Tap Water,3,0,Yes,Yes,No,,,,5,5,Yes,4,3,No
+4/4/19 22:32,Yes,Baltimore City,18-24,Tap Water,2,0,No,No,No,,,,2,3,Yes,2,2,No
+4/4/19 22:34,Yes,Baltimore County,25-34,Tap Water,6,0,Yes,No,No,,,,2,5,Yes,5,3,No
+4/4/19 22:35,Yes,Prince George's County,18-24,Tap Water,1,4,Not Applicable,Yes,No,,,,5,5,Yes,5,4,No
+4/4/19 22:44,Yes,Baltimore County,25-34,Tap Water,7,2,Yes,Yes,No,,,,4,3,Yes,4,4,No
+4/4/19 22:49,Yes,Howard County,55-64,Tap Water,2,5,Not Applicable,Yes,No,,,,3,5,No,5,5,No
+4/4/19 22:58,Yes,Baltimore County,25-34,Tap Water,6,2,Yes,Yes,No,,,,3,3,Yes,4,3,No
+4/4/19 23:07,Yes,Baltimore County,18-24,Tap Water,4,1,Yes,No,No,,,,3,5,Yes,5,3,No
+4/4/19 23:14,Yes,Prince George's County,18-24,Bottled Water,6,0,,,,Weekly,5 - 10 USD,Maybe,5,3,Yes,4,5,No
+4/4/19 23:21,Yes,Frederick County,45-54,Tap Water,4,1,Not Applicable,No,No,,,,1,4,No,5,3,No
+4/4/19 23:59,Yes,Baltimore City,35-44,Bottled Water,10,2,,,,Weekly,10- 15 USD,Maybe,5,1,No,2,5,Yes
+4/5/19 0:08,Yes,Baltimore City,25-34,Bottled Water,3,1,,,,Weekly,Less than 5 USD,No,1,1,No,5,5,No
+4/5/19 0:23,Yes,Montgomery County,18-24,Tap Water,5,0,Yes,No,No,,,,5,4,Yes,4,4,No
+4/5/19 0:27,Yes,Baltimore City,25-34,Tap Water,4,2,Yes,Yes,No,,,,2,3,Yes,4,4,No
+4/5/19 0:32,Yes,Baltimore City,25-34,Tap Water,3,0,Yes,No,No,,,,4,3,Yes,4,4,No
+4/5/19 0:42,Yes,Baltimore City,45-54,Tap Water,1,3,Yes,Yes,No,,,,5,4,No,4,4,No
+4/5/19 1:53,Yes,Anne Arundel County,18-24,Bottled Water,8,1,,,,Weekly,5 - 10 USD,No,5,3,No,5,5,No
+4/5/19 2:15,Yes,Washington County,18-24,Tap Water,6,5,Yes,No,No,,,,4,4,No,5,4,No
+4/5/19 2:50,Yes,Howard County,25-34,Tap Water,9,0,Yes,Yes,No,,,,2,3,Yes,5,2,No
+4/5/19 4:18,Yes,Baltimore City,25-34,Tap Water,4,1,Not Applicable,Yes,No,,,,5,5,No,4,4,No
+4/5/19 6:52,Yes,Baltimore County,25-34,Tap Water,4,1,Yes,No,No,,,,4,4,No,3,5,No
+4/5/19 7:20,Yes,Prince George's County,18-24,Tap Water,2,2,Yes,Yes,No,,,,5,5,No,2,2,No
+4/5/19 7:39,Yes,Baltimore City,25-34,Tap Water,4,2,Yes,Yes,No,,,,3,3,Yes,4,3,No
+4/5/19 7:43,Yes,Baltimore City,25-34,Tap Water,4,1,Yes,Yes,No,,,,4,5,Yes,5,3,No
+4/5/19 7:48,Yes,Baltimore City,25-34,Tap Water,3,3,Yes,Yes,No,,,,2,5,No,5,4,No
+4/5/19 7:50,Yes,Baltimore City,45-54,Tap Water,4,2,Yes,Yes,No,,,,4,4,No,5,5,No
+4/5/19 8:03,Yes,Baltimore City,25-34,Tap Water,7,0,Yes,Yes,No,,,,4,3,No,3,3,No
+4/5/19 8:07,Yes,Baltimore City,25-34,Tap Water,4,0,Yes,Yes,No,,,,4,3,No,4,5,No
+4/5/19 8:11,Yes,Montgomery County,45-54,Tap Water,4,4,Yes,Yes,No,,,,5,5,Yes,3,5,No
+4/5/19 8:19,Yes,Montgomery County,25-34,Tap Water,4,1,Not Applicable,I do not know,No,,,,4,2,Yes,3,3,No
+4/5/19 8:27,Yes,Baltimore City,25-34,Tap Water,3,5,Yes,Yes,No,,,,2,1,Yes,4,5,No
+4/5/19 8:29,Yes,Baltimore City,25-34,Tap Water,1,1,Yes,Yes,No,,,,4,5,Yes,5,5,No
+4/5/19 8:31,Yes,Baltimore City,35-44,Tap Water,6,1,Yes,Yes,No,,,,5,5,No,5,3,No
+4/5/19 8:32,Yes,Baltimore City,45-54,Tap Water,5,2,Yes,No,No,,,,3,3,Yes,3,4,No
+4/5/19 8:35,Yes,Montgomery County,25-34,Tap Water,3,0,Yes,No,No,,,,4,5,Yes,5,5,No
+4/5/19 8:40,Yes,Baltimore City,25-34,Tap Water,4,0,Yes,Yes,No,,,,3,5,No,5,5,No
+4/5/19 8:40,Yes,Prince George's County,25-34,Tap Water,3,6,Yes,Yes,No,,,,4,4,Yes,5,5,No
+4/5/19 8:44,Yes,Baltimore City,25-34,Tap Water,6,4,Yes,Yes,No,,,,4,4,No,4,5,No
+4/5/19 8:56,Yes,Baltimore City,25-34,Tap Water,4,1,Yes,Yes,No,,,,1,1,Yes,2,2,I do not know
+4/5/19 9:01,Yes,Baltimore City,25-34,Tap Water,3,0,Yes,Yes,No,,,,4,3,Yes,5,5,No
+4/5/19 9:18,Yes,Baltimore City,25-34,Tap Water,5,0,Yes,Yes,No,,,,5,5,No,5,5,No
+4/5/19 9:22,Yes,Montgomery County,18-24,Bottled Water,6,1,,,,Monthly,5 - 10 USD,No,4,3,Yes,3,4,Yes
+4/5/19 9:26,Yes,Baltimore County,35-44,Tap Water,3,2,Yes,Yes,No,,,,5,2,No,4,5,No
+4/5/19 9:34,Yes,Baltimore City,18-24,Tap Water,5,1,Yes,Yes,No,,,,4,3,Yes,4,5,No
+4/5/19 9:34,Yes,Baltimore City,35-44,Tap Water,4,3,Yes,Yes,No,,,,4,4,No,5,5,No
+4/5/19 9:40,Yes,Baltimore City,25-34,Tap Water,3,3,Not Applicable,Yes,No,,,,2,3,Yes,4,4,No
+4/5/19 9:45,Yes,Prince George's County,35-44,Bottled Water,6,1,,,,Weekly,10- 15 USD,Maybe,5,3,No,2,5,No
+4/5/19 9:48,Yes,Baltimore County,35-44,Tap Water,6,2,No,Yes,No,,,,1,4,No,5,3,No
+4/5/19 9:49,Yes,Harford County,25-34,Bottled Water,3,1,,,,Weekly,10- 15 USD,No,3,1,Yes,1,3,No
+4/5/19 9:49,Yes,Baltimore City,18-24,Tap Water,More than 10,1,Yes,No,No,,,,3,3,Yes,4,5,No
+4/5/19 9:55,Yes,Baltimore County,25-34,Tap Water,5,1,Yes,Yes,No,,,,3,3,Yes,3,4,No
+4/5/19 10:01,Yes,Baltimore City,25-34,Tap Water,3,5,Yes,Yes,No,,,,3,3,No,4,3,No
+4/5/19 10:01,Yes,Baltimore City,35-44,Tap Water,2,1,Yes,Yes,No,,,,4,3,Yes,5,4,No
+4/5/19 10:40,Yes,Frederick County,25-34,Tap Water,8,1,Yes,No,No,,,,3,4,Yes,5,5,No
+4/5/19 10:46,Yes,Baltimore City,45-54,Tap Water,3,6,Yes,Yes,No,,,,4,5,Yes,5,3,No
+4/5/19 11:12,Yes,Baltimore County,25-34,Bottled Water,1,1,,,,Monthly,Less than 5 USD,Maybe,3,3,Yes,4,4,No
+4/5/19 11:35,Yes,Baltimore City,25-34,Tap Water,6,2,Yes,Yes,No,,,,2,5,No,5,3,No
+4/5/19 11:50,Yes,Baltimore City,45-54,Tap Water,3,6,No,Yes,No,,,,1,4,No,4,3,No
+4/5/19 11:56,Yes,Baltimore County,35-44,Tap Water,6,2,Not Applicable,Yes,No,,,,4,5,No,5,5,No
+4/5/19 11:57,Yes,Howard County,55-64,Tap Water,5,0,Yes,Yes,No,,,,4,4,Yes,4,5,No
+4/5/19 12:16,Yes,Baltimore City,35-44,Tap Water,4,1,Yes,Yes,No,,,,2,5,No,4,4,No
+4/5/19 12:38,Yes,Baltimore City,25-34,Tap Water,5,1,Yes,Yes,No,,,,3,3,No,5,5,No
+4/5/19 12:51,Yes,Baltimore City,25-34,Tap Water,3,6,Yes,Yes,No,,,,4,4,No,5,5,No
+4/5/19 12:57,Yes,Baltimore County,25-34,Tap Water,4,1,Yes,No,No,,,,3,3,Yes,4,4,No
+4/5/19 13:28,Yes,Baltimore City,25-34,Tap Water,2,1,Yes,Yes,No,,,,5,5,No,5,5,No
+4/5/19 13:42,Yes,Howard County,Under 18,Tap Water,3,1,Yes,No,No,,,,4,5,Yes,4,4,No
+4/5/19 14:22,Yes,Harford County,25-34,Tap Water,4,1,Yes,Yes,No,,,,4,4,Yes,5,5,No
+4/5/19 14:26,Yes,Baltimore County,45-54,Tap Water,4,2,Yes,Yes,No,,,,2,4,Yes,4,3,No
+4/5/19 14:46,Yes,Anne Arundel County,25-34,Tap Water,3,1,No,No,No,,,,4,4,No,5,4,No
+4/5/19 15:05,Yes,Baltimore City,25-34,Tap Water,2,1,Yes,Yes,No,,,,4,2,Yes,3,3,No
+4/5/19 15:23,Yes,Baltimore City,25-34,Tap Water,5,2,Yes,Yes,No,,,,2,1,No,4,4,No
+4/5/19 16:48,Yes,Baltimore City,25-34,Tap Water,1,0,Yes,No,No,,,,4,3,No,4,4,No
+4/5/19 17:21,Yes,Anne Arundel County,18-24,Bottled Water,8,0,,,,Weekly,5 - 10 USD,No,5,2,No,1,5,No
+4/5/19 17:34,Yes,Baltimore City,25-34,Tap Water,4,5,Yes,Yes,No,,,,4,4,No,4,4,No
+4/5/19 18:23,Yes,Baltimore City,25-34,Tap Water,4,0,Yes,No,No,,,,3,1,Yes,2,5,No
+4/5/19 21:05,Yes,Baltimore City,35-44,Tap Water,5,0,Yes,No,No,,,,3,4,No,5,2,No
+4/5/19 21:06,Yes,Howard County,45-54,Tap Water,3,4,Not Applicable,Yes,Maybe,,,,4,3,Yes,4,5,No
+4/5/19 22:18,Yes,Baltimore County,35-44,Bottled Water,4,2,,,,Monthly,Less than 5 USD,No,4,2,No,1,5,Yes
+4/6/19 1:46,Yes,Baltimore County,18-24,Tap Water,4,2,Yes,No,No,,,,5,5,No,5,4,No
+4/6/19 6:54,Yes,Montgomery County,18-24,Bottled Water,2,1,,,,Weekly,10- 15 USD,Maybe,5,4,Yes,4,5,No
+4/6/19 8:14,Yes,Baltimore City,25-34,Tap Water,5,1,Yes,Yes,No,,,,4,4,Yes,4,4,No
+4/6/19 9:28,Yes,Anne Arundel County,Under 18,Bottled Water,3,3,,,,Weekly,15 - 20 USD,Maybe,4,4,No,4,5,No
+4/6/19 10:19,Yes,Baltimore City,25-34,Tap Water,1,2,Yes,No,No,,,,5,1,Yes,3,5,I do not know
+4/6/19 12:42,Yes,Anne Arundel County,35-44,Tap Water,8,2,Yes,Yes,No,,,,4,4,Yes,5,5,No
+4/6/19 12:44,Yes,Baltimore City,25-34,Bottled Water,6,1,,,,Weekly,10- 15 USD,No,2,1,Yes,1,4,No
+4/6/19 12:46,Yes,Baltimore City,25-34,Tap Water,1,6,Yes,Yes,No,,,,1,3,Yes,5,2,No
+4/6/19 17:57,Yes,Baltimore City,35-44,Tap Water,5,1,Yes,Yes,No,,,,4,4,No,5,5,No
+4/6/19 19:07,Yes,Montgomery County,25-34,Tap Water,2,2,Yes,Yes,No,,,,2,3,Yes,4,4,No
+4/6/19 20:25,Yes,Baltimore City,25-34,Tap Water,5,2,Yes,No,No,,,,5,4,No,4,3,No
+4/6/19 20:31,Yes,Baltimore County,45-54,Tap Water,3,1,Yes,Yes,No,,,,1,3,Yes,5,3,No
+4/6/19 21:20,Yes,Baltimore City,25-34,Bottled Water,5,3,,,,Weekly,15 - 20 USD,No,5,1,Yes,2,5,I do not know
+4/6/19 22:54,Yes,Baltimore City,25-34,Tap Water,6,3,Yes,Yes,No,,,,4,4,No,5,4,No
+4/6/19 23:48,Yes,Baltimore County,Under 18,Bottled Water,6,1,,,,Weekly,5 - 10 USD,Yes,4,3,No,3,4,I do not know
+4/7/19 7:26,Yes,Baltimore City,45-54,Tap Water,4,1,Yes,Yes,No,,,,2,4,Yes,5,2,No
+4/7/19 7:59,Yes,Baltimore City,25-34,Tap Water,6,2,Yes,I do not know,No,,,,4,4,Yes,4,4,No
+4/7/19 13:04,Yes,Anne Arundel County,45-54,Bottled Water,1,2,,,,Monthly,5 - 10 USD,No,3,2,Yes,4,4,No
+4/7/19 15:35,Yes,Baltimore City,25-34,Tap Water,3,0,Yes,Yes,No,,,,5,3,No,4,5,Yes
+4/7/19 16:16,Yes,Baltimore City,18-24,Tap Water,6,1,Yes,Yes,No,,,,2,2,Yes,4,3,No
+4/7/19 17:02,Yes,Calvert County,45-54,Tap Water,5,1,Yes,No,No,,,,4,4,Yes,5,5,No
+4/7/19 22:37,Yes,Prince George's County,18-24,Bottled Water,4,2,,,,Yearly,Less than 5 USD,Maybe,5,2,Yes,2,5,No
+4/8/19 14:10,Yes,Baltimore City,18-24,Tap Water,3,1,Yes,Yes,No,,,,5,5,Yes,4,5,No
